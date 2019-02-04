@@ -1,1 +1,1 @@
-worked: node Cryptic.js
+worker: node Cryptic.js
