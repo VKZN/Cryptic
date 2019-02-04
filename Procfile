@@ -1,1 +1,1 @@
-worker: node Cryptic.js
+worker: node index.js
