@@ -1,1 +1,1 @@
-worker: node cryptic.js
+worker: node bot.js
